@@ -1,0 +1,1 @@
+ document.getElementById("title-first").innerText="Es funktionier wie es soll";
